@@ -1,3 +1,30 @@
+
+
+#Eclipse files
+
+*/.classpath       
+*/.project
+*/.settings
+*/.settings
+        
+*/.idea/gradle.xml  
+  */.idea/misc.xml    
+*/.idea/vcs.xml     
+      */build.gradle.kts  
+       */gradle/wrapper/gradle-wrapper.jar
+        */gradle/wrapper/gradle-wrapper.properties
+     */gradlew
+        */gradlew.bat       
+       */settings.gradle.kts
+      */src/main/java/org/example/Main.java
+#intelligi file
+        */.idea/misc.xml
+        */.idea/modules.xml
+        */.idea/vcs.xml
+        */IntelligiTest.iml
+        */src/Main.java
+        */src/app.java
+tmp
 # Compiled class file
 *.class
 
@@ -22,3 +49,4 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+/.metadata/
